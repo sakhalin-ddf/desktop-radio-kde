@@ -1,0 +1,7 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Radio Play
+Comment=Radio player powered by mpg123
+Icon=/opt/radio/icons/play.svg
+X-XFCE-Exec=/opt/radio/bin/select

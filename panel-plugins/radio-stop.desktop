@@ -1,0 +1,7 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Radio Stop
+Comment=Radio player powered by mpg123
+Icon=/opt/radio/icons/stop.svg
+X-XFCE-Exec=/opt/radio/bin/stop

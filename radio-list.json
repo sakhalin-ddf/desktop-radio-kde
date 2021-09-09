@@ -1,0 +1,476 @@
+[
+  {
+    "id": 15016,
+    "name": "Radio Record",
+    "url": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+    "icon": "icons/stations/record_image600_white_fill.png"
+  },
+  {
+    "id": 537,
+    "name": "Russian Mix",
+    "url": "https://radiorecord.hostingradio.ru/rus96.aacp",
+    "icon": "icons/stations/rus_image600_white_fill.png"
+  },
+  {
+    "id": 519,
+    "name": "Russian Hits",
+    "url": "https://radiorecord.hostingradio.ru/russianhits96.aacp",
+    "icon": "icons/stations/russianhits_image600_white_fill.png"
+  },
+  {
+    "id": 539,
+    "name": "Супердискотека 90-х",
+    "url": "https://radiorecord.hostingradio.ru/sd9096.aacp",
+    "icon": "icons/stations/sd90_image600_white_fill.png"
+  },
+  {
+    "id": 524,
+    "name": "Russian Gold",
+    "url": "https://radiorecord.hostingradio.ru/russiangold96.aacp",
+    "icon": "icons/stations/russiangold_image600_white_fill.png"
+  },
+  {
+    "id": 528,
+    "name": "Deep",
+    "url": "https://radiorecord.hostingradio.ru/deep96.aacp",
+    "icon": "icons/stations/deep_image600_white_fill.png"
+  },
+  {
+    "id": 533,
+    "name": "Trancemission",
+    "url": "https://radiorecord.hostingradio.ru/tm96.aacp",
+    "icon": "icons/stations/tm_image600_white_fill.png"
+  },
+  {
+    "id": 42509,
+    "name": "Tech House",
+    "url": "https://radiorecord.hostingradio.ru/techouse96.aacp",
+    "icon": "icons/stations/techouse_image600_white_fill.png"
+  },
+  {
+    "id": 534,
+    "name": "Chill-Out",
+    "url": "https://radiorecord.hostingradio.ru/chil96.aacp",
+    "icon": "icons/stations/chil_image600_white_fill.png"
+  },
+  {
+    "id": 536,
+    "name": "Pirate Station",
+    "url": "https://radiorecord.hostingradio.ru/ps96.aacp",
+    "icon": "icons/stations/ps_image600_white_fill.png"
+  },
+  {
+    "id": 42725,
+    "name": "Summer Dance",
+    "url": "https://radiorecord.hostingradio.ru/summerparty96.aacp",
+    "icon": "icons/stations/summer-dance_image600_white_fill.png"
+  },
+  {
+    "id": 42715,
+    "name": "Organic",
+    "url": "https://radiorecord.hostingradio.ru/organic96.aacp",
+    "icon": "icons/stations/organic_image600_white_fill.png"
+  },
+  {
+    "id": 42650,
+    "name": "Ambient",
+    "url": "https://radiorecord.hostingradio.ru/ambient96.aacp",
+    "icon": "icons/stations/ambient_image600_white_fill.png"
+  },
+  {
+    "id": 515,
+    "name": "Chill House",
+    "url": "https://radiorecord.hostingradio.ru/chillhouse96.aacp",
+    "icon": "icons/stations/chillhouse_image600_white_fill.png"
+  },
+  {
+    "id": 42532,
+    "name": "Lo-Fi",
+    "url": "https://radiorecord.hostingradio.ru/lofi96.aacp",
+    "icon": "icons/stations/lofi_image600_white_fill.png"
+  },
+  {
+    "id": 42602,
+    "name": "Dream Pop",
+    "url": "https://radiorecord.hostingradio.ru/dreampop96.aacp",
+    "icon": "icons/stations/dream-pop_image600_white_fill.png"
+  },
+  {
+    "id": 494,
+    "name": "Innocence",
+    "url": "https://radiorecord.hostingradio.ru/ibiza96.aacp",
+    "icon": "icons/stations/ibiza_image600_white_fill.png"
+  },
+  {
+    "id": 495,
+    "name": "Маятник Фуко",
+    "url": "https://radiorecord.hostingradio.ru/mf96.aacp",
+    "icon": "icons/stations/mf_image600_white_fill.png"
+  },
+  {
+    "id": 558,
+    "name": "Black Rap",
+    "url": "https://radiorecord.hostingradio.ru/yo96.aacp",
+    "icon": "icons/stations/yo_image600_white_fill.png"
+  },
+  {
+    "id": 520,
+    "name": "Megamix",
+    "url": "https://radiorecord.hostingradio.ru/mix96.aacp",
+    "icon": "icons/stations/mix_image600_white_fill.png"
+  },
+  {
+    "id": 493,
+    "name": "Record Gold",
+    "url": "https://radiorecord.hostingradio.ru/gold96.aacp",
+    "icon": "icons/stations/gold_image600_white_fill.png"
+  },
+  {
+    "id": 501,
+    "name": "Big Hits",
+    "url": "https://radiorecord.hostingradio.ru/bighits96.aacp",
+    "icon": "icons/stations/bighits_image600_white_fill.png"
+  },
+  {
+    "id": 548,
+    "name": "Remix",
+    "url": "https://radiorecord.hostingradio.ru/rmx96.aacp",
+    "icon": "icons/stations/rmx_image600_white_fill.png"
+  },
+  {
+    "id": 541,
+    "name": "Bass House",
+    "url": "https://radiorecord.hostingradio.ru/jackin96.aacp",
+    "icon": "icons/stations/jackin_image600_white_fill.png"
+  },
+  {
+    "id": 538,
+    "name": "VIP House",
+    "url": "https://radiorecord.hostingradio.ru/vip96.aacp",
+    "icon": "icons/stations/vip_image600_white_fill.png"
+  },
+  {
+    "id": 510,
+    "name": "Trance Classics",
+    "url": "https://radiorecord.hostingradio.ru/trancehits96.aacp",
+    "icon": "icons/stations/trancehits_image600_white_fill.png"
+  },
+  {
+    "id": 500,
+    "name": "House Hits",
+    "url": "https://radiorecord.hostingradio.ru/househits96.aacp",
+    "icon": "icons/stations/househits_image600_white_fill.png"
+  },
+  {
+    "id": 529,
+    "name": "EDM",
+    "url": "https://radiorecord.hostingradio.ru/club96.aacp",
+    "icon": "icons/stations/club_image600_white_fill.png"
+  },
+  {
+    "id": 535,
+    "name": "Minimal/Tech",
+    "url": "https://radiorecord.hostingradio.ru/mini96.aacp",
+    "icon": "icons/stations/mini_image600_white_fill.png"
+  },
+  {
+    "id": 530,
+    "name": "Tropical",
+    "url": "https://radiorecord.hostingradio.ru/trop96.aacp",
+    "icon": "icons/stations/trop_image600_white_fill.png"
+  },
+  {
+    "id": 505,
+    "name": "House Classics",
+    "url": "https://radiorecord.hostingradio.ru/houseclss96.aacp",
+    "icon": "icons/stations/houseclss_image600_white_fill.png"
+  },
+  {
+    "id": 523,
+    "name": "D'n'B Classics",
+    "url": "https://radiorecord.hostingradio.ru/drumhits96.aacp",
+    "icon": "icons/stations/drumhits_image600_white_fill.png"
+  },
+  {
+    "id": 506,
+    "name": "EDM Classics",
+    "url": "https://radiorecord.hostingradio.ru/edmhits96.aacp",
+    "icon": "icons/stations/edmhits_image600_white_fill.png"
+  },
+  {
+    "id": 532,
+    "name": "Future House",
+    "url": "https://radiorecord.hostingradio.ru/fut96.aacp",
+    "icon": "icons/stations/fut_image600_white_fill.png"
+  },
+  {
+    "id": 552,
+    "name": "Trap",
+    "url": "https://radiorecord.hostingradio.ru/trap96.aacp",
+    "icon": "icons/stations/trap_image600_white_fill.png"
+  },
+  {
+    "id": 512,
+    "name": "Rap Classics",
+    "url": "https://radiorecord.hostingradio.ru/rapclassics96.aacp",
+    "icon": "icons/stations/rapclassics_image600_white_fill.png"
+  },
+  {
+    "id": 498,
+    "name": "Progressive",
+    "url": "https://radiorecord.hostingradio.ru/progr96.aacp",
+    "icon": "icons/stations/progr_image600_white_fill.png"
+  },
+  {
+    "id": 544,
+    "name": "Breaks",
+    "url": "https://radiorecord.hostingradio.ru/brks96.aacp",
+    "icon": "icons/stations/brks_image600_white_fill.png"
+  },
+  {
+    "id": 542,
+    "name": "Trancehouse",
+    "url": "https://radiorecord.hostingradio.ru/trancehouse96.aacp",
+    "icon": "icons/stations/trancehouse_image600_white_fill.png"
+  },
+  {
+    "id": 511,
+    "name": "Rap Hits",
+    "url": "https://radiorecord.hostingradio.ru/rap96.aacp",
+    "icon": "icons/stations/rap_image600_white_fill.png"
+  },
+  {
+    "id": 531,
+    "name": "GOA/PSY",
+    "url": "https://radiorecord.hostingradio.ru/goa96.aacp",
+    "icon": "icons/stations/goa_image600_white_fill.png"
+  },
+  {
+    "id": 502,
+    "name": "Dream Dance",
+    "url": "https://radiorecord.hostingradio.ru/dream96.aacp",
+    "icon": "icons/stations/dream_image600_white_fill.png"
+  },
+  {
+    "id": 504,
+    "name": "Uplifting",
+    "url": "https://radiorecord.hostingradio.ru/uplift96.aacp",
+    "icon": "icons/stations/uplift_image600_white_fill.png"
+  },
+  {
+    "id": 496,
+    "name": "Electro",
+    "url": "https://radiorecord.hostingradio.ru/elect96.aacp",
+    "icon": "icons/stations/elect_image600_white_fill.png"
+  },
+  {
+    "id": 549,
+    "name": "Future Bass",
+    "url": "https://radiorecord.hostingradio.ru/fbass96.aacp",
+    "icon": "icons/stations/fbass_image600_white_fill.png"
+  },
+  {
+    "id": 507,
+    "name": "Neurofunk",
+    "url": "https://radiorecord.hostingradio.ru/neurofunk96.aacp",
+    "icon": "icons/stations/neurofunk_image600_white_fill.png"
+  },
+  {
+    "id": 546,
+    "name": "Dancecore",
+    "url": "https://radiorecord.hostingradio.ru/dc96.aacp",
+    "icon": "icons/stations/dc_image600_white_fill.png"
+  },
+  {
+    "id": 522,
+    "name": "Liquid Funk",
+    "url": "https://radiorecord.hostingradio.ru/liquidfunk96.aacp",
+    "icon": "icons/stations/liquidfunk_image600_white_fill.png"
+  },
+  {
+    "id": 525,
+    "name": "Eurodance",
+    "url": "https://radiorecord.hostingradio.ru/eurodance96.aacp",
+    "icon": "icons/stations/eurodance_image600_white_fill.png"
+  },
+  {
+    "id": 545,
+    "name": "Dubstep",
+    "url": "https://radiorecord.hostingradio.ru/dub96.aacp",
+    "icon": "icons/stations/dub_image600_white_fill.png"
+  },
+  {
+    "id": 526,
+    "name": "Technopop",
+    "url": "https://radiorecord.hostingradio.ru/technopop96.aacp",
+    "icon": "icons/stations/technopop_image600_white_fill.png"
+  },
+  {
+    "id": 547,
+    "name": "Techno",
+    "url": "https://radiorecord.hostingradio.ru/techno96.aacp",
+    "icon": "icons/stations/techno_image600_white_fill.png"
+  },
+  {
+    "id": 527,
+    "name": "Disco/Funk",
+    "url": "https://radiorecord.hostingradio.ru/discofunk96.aacp",
+    "icon": "icons/stations/discofunk_image600_white_fill.png"
+  },
+  {
+    "id": 550,
+    "name": "Hardstyle",
+    "url": "https://radiorecord.hostingradio.ru/teo96.aacp",
+    "icon": "icons/stations/teo_image600_white_fill.png"
+  },
+  {
+    "id": 508,
+    "name": "Tecktonik",
+    "url": "https://radiorecord.hostingradio.ru/tecktonik96.aacp",
+    "icon": "icons/stations/tecktonik_image600_white_fill.png"
+  },
+  {
+    "id": 497,
+    "name": "Midtempo",
+    "url": "https://radiorecord.hostingradio.ru/mt96.aacp",
+    "icon": "icons/stations/mt_image600_white_fill.png"
+  },
+  {
+    "id": 499,
+    "name": "Synthwave",
+    "url": "https://radiorecord.hostingradio.ru/synth96.aacp",
+    "icon": "icons/stations/synth_image600_white_fill.png"
+  },
+  {
+    "id": 553,
+    "name": "Old School",
+    "url": "https://radiorecord.hostingradio.ru/pump96.aacp",
+    "icon": "icons/stations/pump_image600_white_fill.png"
+  },
+  {
+    "id": 551,
+    "name": "Hard Bass",
+    "url": "https://radiorecord.hostingradio.ru/hbass96.aacp",
+    "icon": "icons/stations/hbass_image600_white_fill.png"
+  },
+  {
+    "id": 503,
+    "name": "Darkside",
+    "url": "https://radiorecord.hostingradio.ru/darkside96.aacp",
+    "icon": "icons/stations/darkside_image600_white_fill.png"
+  },
+  {
+    "id": 543,
+    "name": "Hypnotic",
+    "url": "https://radiorecord.hostingradio.ru/hypno96.aacp",
+    "icon": "icons/stations/hypno_image600_white_fill.png"
+  },
+  {
+    "id": 540,
+    "name": "Moombahton",
+    "url": "https://radiorecord.hostingradio.ru/mmbt96.aacp",
+    "icon": "icons/stations/mmbt_image600_white_fill.png"
+  },
+  {
+    "id": 509,
+    "name": "2-step",
+    "url": "https://radiorecord.hostingradio.ru/2step96.aacp",
+    "icon": "icons/stations/2step_image600_white_fill.png"
+  },
+  {
+    "id": 518,
+    "name": "Groove/Tribal",
+    "url": "https://radiorecord.hostingradio.ru/groovetribal96.aacp",
+    "icon": "icons/stations/groovetribal_image600_white_fill.png"
+  },
+  {
+    "id": 42375,
+    "name": "Christmas",
+    "url": "https://radiorecord.hostingradio.ru/christmas96.aacp",
+    "icon": "icons/stations/christmas-radio_image600_white_fill.png"
+  },
+  {
+    "id": 559,
+    "name": "Rave FM",
+    "url": "https://radiorecord.hostingradio.ru/rave96.aacp",
+    "icon": "icons/stations/rave_image600_white_fill.png"
+  },
+  {
+    "id": 521,
+    "name": "Jungle",
+    "url": "https://radiorecord.hostingradio.ru/jungle96.aacp",
+    "icon": "icons/stations/jungle_image600_white_fill.png"
+  },
+  {
+    "id": 517,
+    "name": "Complextro",
+    "url": "https://radiorecord.hostingradio.ru/complextro96.aacp",
+    "icon": "icons/stations/complextro_image600_white_fill.png"
+  },
+  {
+    "id": 556,
+    "name": "Гоп FM",
+    "url": "https://radiorecord.hostingradio.ru/gop96.aacp",
+    "icon": "icons/stations/gop_image600_white_fill.png"
+  },
+  {
+    "id": 554,
+    "name": "Rock",
+    "url": "https://radiorecord.hostingradio.ru/rock96.aacp",
+    "icon": "icons/stations/rock_image600_white_fill.png"
+  },
+  {
+    "id": 513,
+    "name": "60's Dance",
+    "url": "https://radiorecord.hostingradio.ru/cadillac96.aacp",
+    "icon": "icons/stations/cadillac_image600_white_fill.png"
+  },
+  {
+    "id": 516,
+    "name": "70's Dance",
+    "url": "https://radiorecord.hostingradio.ru/197096.aacp",
+    "icon": "icons/stations/1970_image600_white_fill.png"
+  },
+  {
+    "id": 514,
+    "name": "Record 80-х",
+    "url": "https://radiorecord.hostingradio.ru/198096.aacp",
+    "icon": "icons/stations/1980_image600_white_fill.png"
+  },
+  {
+    "id": 14954,
+    "name": "Руки Вверх!",
+    "url": "https://radiorecord.hostingradio.ru/rv96.aacp",
+    "icon": "icons/stations/rv19_image600_white_fill.png"
+  },
+  {
+    "id": 14718,
+    "name": "Веснушка FM",
+    "url": "https://radiorecord.hostingradio.ru/deti96.aacp",
+    "icon": "icons/stations/deti_image600_white_fill.png"
+  },
+  {
+    "id": 555,
+    "name": "Медляк FM",
+    "url": "https://radiorecord.hostingradio.ru/mdl96.aacp",
+    "icon": "icons/stations/mdl_image600_white_fill.png"
+  },
+  {
+    "id": 561,
+    "name": "Нафталин FM",
+    "url": "https://radiorecord.hostingradio.ru/naft96.aacp",
+    "icon": "icons/stations/naft_image600_white_fill.png"
+  },
+  {
+    "id": 560,
+    "name": "Гастарбайтер FM",
+    "url": "https://radiorecord.hostingradio.ru/gast96.aacp",
+    "icon": "icons/stations/gast_image600_white_fill.png"
+  },
+  {
+    "id": 557,
+    "name": "Симфония FM",
+    "url": "https://radiorecord.hostingradio.ru/symph96.aacp",
+    "icon": "icons/stations/symph_image600_white_fill.png"
+  }
+]

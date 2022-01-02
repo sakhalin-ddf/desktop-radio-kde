@@ -3,6 +3,8 @@
 __FILE__=`readlink -e ${BASH_SOURCE[0]}`
 __DIR__=$(dirname $(dirname ${__FILE__}))
 
+mkdir -p ~/.local/share/applications ~/.gnome/apps
+
 cat <<EOT > ~/.local/share/applications/radio-play.desktop
 [Desktop Entry]
 Version=1.0
